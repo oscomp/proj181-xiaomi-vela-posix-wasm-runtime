@@ -26,6 +26,12 @@ WebAssembly（以下简称Wasm）技术对于没有MMU的小型嵌入式操作�
 
 • 支持C、C++、Rust和Assembly Script
 
+### 项目导师
+
+• 黄齐，Bytecode Alliance RC / WAMR TSC Member , huangqi3@xiaomi.com
+
+• 小米公司Vela研发团队（含NuttX社区主要代码提交人）
+
 #### 难度
 
 中等
@@ -53,12 +59,6 @@ WebAssembly（以下简称Wasm）技术对于没有MMU的小型嵌入式操作�
 • 完整且独立的开发SDK和C/C++/Rust/Assembly Script支持
 
 • 配套的NuttX/WAMR端支持库
-
-### 指导专家介绍及联系方式
-
-• 黄齐，Bytecode Alliance RC / WAMR TSC Member , huangqi3@xiaomi.com
-
-• 小米公司Vela研发团队（含NuttX社区主要代码提交人）
 
 ### 对参赛队提供的支持
 
